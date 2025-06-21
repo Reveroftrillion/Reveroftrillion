@@ -26,4 +26,7 @@
 <br>
 
 ## 📊 GitHub Stats  
-![Reveroftrillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revero)
+![Reveroftrillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reveroftrillion&show_icons=true&theme=default)
+
+
+</div>
