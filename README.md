@@ -1,9 +1,5 @@
 <div align="center">
 
-## Hi there 👋
-
-<br>
-
 ## 💡 Technology Stack 💡  
 <!-- 프레임워크·DB·툴 -->
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
