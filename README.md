@@ -25,5 +25,22 @@
 ## 📊 GitHub Stats 📊 
 ![Reveroftrillion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reveroftrillion&show_icons=true&theme=default)
 
+<br>
 
+
+
+## 🏆 Awards 🏆 
 </div>
+
+**2025 Chuncheon AWS DeepRacer Championship - Autonomous Driving AI Fusion Competition**  
+- **Hosted by:** Chuncheon City  
+- **Organized by:** Gangwon Information & Culture Industry Promotion Agency  
+- **Sponsored by:** AWS (Amazon Web Services)  
+- **Sep. 2025**
+- **Excellence Award (2nd Place)** 🥈 (Team : FOSCAR)
+
+The competition centered on autonomous driving AI, where participants designed and refined machine learning models for AWS DeepRacer, a 1/18-scale autonomous vehicle.
+
+[News Link](https://www.fnewstv.com/news/newsview.php?ncode=1065576648902733)
+
+
