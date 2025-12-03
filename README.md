@@ -43,4 +43,11 @@ The competition centered on autonomous driving AI, where participants designed a
 
 [News Link](https://www.fnewstv.com/news/newsview.php?ncode=1065576648902733)
 
+**2025 Chuncheon AWS DeepRacer Championship - Autonomous Driving AI Fusion Competition**  
+- **Hosted by:** Ministry of Land, Infrastructure and Transport (MOLIT)
+- **Organized by:** Korea Transportation Safety Authority (KTSA), Korean Society of Automotive Safety (KSAS)
+- **Nov. 2025**
+- **Excellence Award – Autonomous Mobility Design Division (Top 5)** 🏅 (Team : FOSCAR)
+
+The competition centered on autonomous mobility, where participants engineered and refined perception, signal processing, and decision-making algorithms for real-time deployment on a 1/4-scale autonomous vehicle.
 
